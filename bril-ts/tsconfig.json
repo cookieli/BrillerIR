@@ -1,0 +1,13 @@
+{
+    "compilerOptions": {
+        "strict": true,
+        "outDir": "build",
+        "target": "es6",
+        "module": "commonjs",
+        "sourceMap": true,
+      "lib": [
+        "es6",
+        "esnext.bigint"
+      ]
+    }
+}

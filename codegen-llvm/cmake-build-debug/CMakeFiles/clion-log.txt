@@ -1,0 +1,10 @@
+/home/lzx/ide/clion-2019.1.3/bin/cmake/linux/bin/cmake -DCMAKE_BUILD_TYPE=Debug -G "CodeBlocks - Unix Makefiles" /home/lzx/bril/codegen-llvm
+-- Found 9.0.0
+-- Using LLVMConfig.cmake in: /usr/lib/llvm-9/cmake
+CMake Error at CMakeLists.txt:25 (target_link_libraries):
+  Cannot specify link libraries for target "codengen_llvm" which is not built
+  by this project.
+
+
+-- Configuring incomplete, errors occurred!
+See also "/home/lzx/bril/codegen-llvm/cmake-build-debug/CMakeFiles/CMakeOutput.log".
