@@ -1,7 +1,6 @@
-Bril: A Compiler Intermediate Representation for Learning
+Bril: A Compiler Intermediate Representation for extend
 =========================================================
 
-Bril (the Big Red Intermediate Language) is a compiler IR made for teaching [CS 6120][cs6120], a grad compilers course.
 It is an extremely simple instruction-based IR that is meant to be extended.
 Its canonical representation is JSON, which makes it easy to build tools from scratch to manipulate it.
 
